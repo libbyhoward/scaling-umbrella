@@ -41,16 +41,6 @@ To solve this problem, each student will have information about themselves on re
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
 
-
-    Table 1 
- _____  ______
-| Libby| Tay  |
-|      |      |  
-_______________
-|      |      |
-| Su   | Deb  |
-|_____ |_____ |
-
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
 

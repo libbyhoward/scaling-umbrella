@@ -8,19 +8,19 @@ This document helps individual members understand the team's expectations,
 and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
-## How we will assign (and reassign) tasks
+## How will we assign (and reassign) tasks
 Constant communication through group iMessage will enable us to assign and reassign tasks quickly and efficiently. The leader (Libby) will delegate final tasks to each person if conflict arises. Tasks will be split evenly and agreed amongst all team members.
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How will we track progress (and follow-up) on completion of tasks
 Update completed tasks through iMessage and have small deadlines for tasks.
 
 
-## How will will communicate difficulties with a task assigned to us
-
+## How will we communicate difficulties with a task assigned to us
+Make sure to talk about and exchange thoughts and ideas without being frustrated with each other, and make sure you are always respectful to each other's opinions.  
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Set alarm on phone, keep each other informed on schedule, and remind of each other the deadlines. 
 
 
 ## Add any other rules that your team establishes to help each other work effectively together

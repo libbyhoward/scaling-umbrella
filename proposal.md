@@ -1,4 +1,4 @@
-# X-Team 34 Project Proposal
+# X-Team 34 Project Proposal : Creating a School Seating Chart
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,8 +29,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Creating a seating chart for elementary school classrooms. In elementary school classrooms the teachers are often left on their own to create a compatible seating arrangement for every student in their class. It is often difficult to make sure that they sit with a variety of students throughout the year and at the same time make sure they are learning how to work with people from different backgrounds. 
+To solve this problem, each student will have information about themselves on record. This would include age, gender, ethnicity, grades, etc. In the seating chart program, we will make sure that each student is sitting at a table with a group of people that is of a different "background". The teachers will use this program to create different seating arrangements, being able to choose the category in which the students are divided. 
 
 ## Questions to answer for Exercise #2
 

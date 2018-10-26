@@ -9,10 +9,10 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-fasjdflks;fjskal;j
+Constant communication through group iMessage will enable us to assign and reassign tasks quickly and efficiently. The leader (Libby) will delegate final tasks to each person if conflict arises. Tasks will be split evenly and agreed amongst all team members.
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+Update completed tasks through iMessage and have small deadlines for tasks.
 
 
 ## How will will communicate difficulties with a task assigned to us

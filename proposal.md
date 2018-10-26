@@ -1,4 +1,4 @@
-# X-Team 34 Project Proposal
+# X-Team NN Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 

@@ -46,21 +46,36 @@ Table 1  ->   Student A | Student B | Student C | Student D
    .
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 Student name, gender, ethnicity, math grades/scores, reading grades/scores, personality(loud or quiet), class(Economic).
-Example: Joe, Male, Caucasian, 98, 68, loud, Middle.  
+Example: Joe, Male, Caucasian, 98, 68, Loud, Middle.  
 
 
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+Enter student information below
 
+Name: 
+Age: 
+Gender: 
+Ethnicity: 
+Math Score: 
+Reading Score: 
+Personality (loud or quiet): 
+Economic Class: 
+Additional Notes: 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-
+Seating Chart Generator:
+ create hashTable
+ generate table number (w/hash function) of student to sit at (based off of category and student fields)
+ rehash if more students added to class
 
 Name each interface or class and briefly describe its function or purpose.
 
+Student Class that contains the information of a student-- with fields 'name', 'gender', etc.
+Seating Chart Class that contains the students at each table -- with fields 'table number'
+Seating Chart Generator Class that generates the randomized seating chart -- with fields 'class list', 'category' to randomize within
 
 ## Edit and Submit this file and any figures referenced by this document.
 

@@ -19,11 +19,11 @@ Update completed tasks through iMessage and have small deadlines for tasks.
 Make sure to talk about and exchange thoughts and ideas without being frustrated with each other, and make sure you are always respectful to each other's opinions.  
 
 
-## How we will back up each other to ensure that deadlines are not missed
-Set alarm on phone, keep each other informed on schedule, and remind of each other the deadlines. 
+## How will we back up each other to ensure that deadlines are not missed
+Set alarm on phone, keep each other informed on schedule, and remind each other of the deadlines. 
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+Try to respond within two hours of someone's message. Don't be afraid to ask for help when you are struggling with something. Be flexible with your schedule so that meeting times can accommodate everyone.
 
 

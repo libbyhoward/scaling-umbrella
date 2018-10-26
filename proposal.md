@@ -1,4 +1,4 @@
-# X-Team 34 Project Proposal : Creating a School Seating Chart
+# X-Team 34 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,8 +29,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Creating a seating chart for elementary school classrooms. In elementary school classrooms the teachers are often left on their own to create a compatible seating arrangement for every student in their class. It is often difficult to make sure that they sit with a variety of students throughout the year and at the same time make sure they are learning how to work with people from different backgrounds. 
-To solve this problem, each student will have information about themselves on record. This would include age, gender, ethnicity, grades, etc. In the seating chart program, we will make sure that each student is sitting at a table with a group of people that is of a different "background". The teachers will use this program to create different seating arrangements, being able to choose the category in which the students are divided. 
+Briefly describe a problem that your team would like to solve.  
+Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
@@ -39,9 +39,15 @@ To solve this problem, each student will have information about themselves on re
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
+Seating chart arrangment including table number, the list of students sitting at that table,
+Table 1  ->   Student A | Student B | Student C | Student D     
+   .
+   .
+   .
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+Student name, gender, ethnicity, math grades/scores, reading grades/scores, personality(loud or quiet), class(Economic).
+Example: Joe, Male, Caucasian, 98, 68, loud, Middle.  
+
 
 
 

@@ -32,6 +32,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+A problem that we would like to solve is the issue of making a seating chart in school classrooms. Teachers are left on their own to make these arrangements and often struggle with how to make their classroom compatible. Especially since many students come from different backgrounds.
+A program that would solve this problem would generate a seating chart based off of different qualities that students possess. Teachers would have the ability to choose how students are matched together (ex. economic background, ethnicty, gender, grades etc.). The teachers would have personal data about each student that allows them to make these choices about how they are seated. The program will group students in arrangements of rows or tables based on the teachers preferences. 
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)

@@ -13,7 +13,7 @@
    * When did you complete this exercise? 
       October 25 (right after midterm) 
    * How long did it take your team to complete this exercise? 
-      About an hour and a half 
+      About an hour and a half
 
 ## Table of Contents
 

@@ -34,7 +34,7 @@ A program that would solve this problem would generate a seating chart based off
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: School Seating Chart
 
 
 
